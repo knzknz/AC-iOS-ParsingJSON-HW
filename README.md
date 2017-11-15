@@ -5,7 +5,7 @@
 
 <details>
 <summary>Contacts TableView</summary>
-![g1](https://github.com/C4Q/AC-iOS-ParsingJSON-HW/blob/master/gifs/gif1.gif)
+<img src="https://github.com/C4Q/AC-iOS-ParsingJSON-HW/blob/master/gifs/gif1.gif"/>
 </details>
 
 <details>
