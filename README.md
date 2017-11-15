@@ -10,17 +10,17 @@
 
 <details>
 <summary>Contacts Detail View Controller</summary>
-![g2](https://github.com/C4Q/AC-iOS-ParsingJSON-HW/blob/master/gifs/gif2.gif)
+<img src="https://github.com/C4Q/AC-iOS-ParsingJSON-HW/blob/master/gifs/gif2.gif"/>
 </details>
 
 <details>
 <summary>Stocks TableView</summary>
-![g3](https://github.com/C4Q/AC-iOS-ParsingJSON-HW/blob/master/gifs/gif3.gif)
+<img src="https://github.com/C4Q/AC-iOS-ParsingJSON-HW/blob/master/gifs/gif3.gif"/>
 </details>
 
 <details>
 <summary>Stock Detail View Controller</summary>
-![g4](https://github.com/C4Q/AC-iOS-ParsingJSON-HW/blob/master/gifs/gif4.gif)
+<img src="https://github.com/C4Q/AC-iOS-ParsingJSON-HW/blob/master/gifs/gif4.gif"/>
 </details>
 
 ## Summary
