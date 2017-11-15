@@ -5,22 +5,22 @@
 
 <details>
 <summary>Contacts TableView</summary>
-![g1](gif1.gif)
+![g1](/gifs/gif1.gif)
 </details>
 
 <details>
 <summary>Contacts Detail View Controller</summary>
-![g2](gif2.gif)
+![g2](/gifs/gif2.gif)
 </details>
 
 <details>
 <summary>Stocks TableView</summary>
-![g3](gif3.gif)
+![g3](/gifs/gif3.gif)
 </details>
 
 <details>
 <summary>Stock Detail View Controller</summary>
-![g4](gif4.gif)
+![g4](/gifs/gif4.gif)
 </details>
 
 ## Summary
