@@ -31,8 +31,8 @@ You are given two .json files.  Create a Tab Bar Controller that manages two Vie
 
 JSON from the following projects is included in the project.
 
-1. [2 Years of APPL stock information](https://api.iextrading.com/1.0/stock/aapl/chart/2y)
-2. [Random UK users](https://randomuser.me/documentation)
+1. [Random UK users](https://randomuser.me/documentation)
+2. [2 Years of APPL stock information](https://api.iextrading.com/1.0/stock/aapl/chart/2y)
 
 # Part One: Contacts List
 
